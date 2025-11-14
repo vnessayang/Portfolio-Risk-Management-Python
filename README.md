@@ -81,6 +81,7 @@ Jupyter Notebook R1-R4 and Final Notebook               #Step-by-step Progress a
 Report of PLTR Risk Management                          #Detail for Analysis and Explanation
 
 5. Author Name
+
 Vanessa Nathalia Iskandar（杨即位）
 
 ID: Vanessa Yang
