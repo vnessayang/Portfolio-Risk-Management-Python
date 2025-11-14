@@ -1,3 +1,5 @@
+Portfolio Risk Management in Python: Palantir Technologies
+
 Portfolio Risk Management of Palantir Technologies: A Quantitative Analysis Using Python
 This repository presents an academically structured analysis of the risk profile of Palantir Technologies (PLTR) and its comparison with selected asset classes. The project demonstrates the application of quantitative finance, statistical modeling, and Python-based analytics. It is prepared as part of a broader portfolio supporting my application for a Master’s degree in international Master of Finance (iMF) Zhejiang University.
 1. Purpose of the Project
@@ -84,7 +86,7 @@ Report of PLTR Risk Management                          #Detail for Analysis and
 
 Vanessa Nathalia Iskandar（杨即位）
 
-ID: Vanessa Yang
+ID: vnessayang
 
 Prospective Master’s Student in Finance
 
