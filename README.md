@@ -47,7 +47,9 @@ The modeling process reflects graduate-level econometric reasoning.
 4. Project Structure
 Portfolio-Risk-Management-Python/
 Read Me                                                 #Project Overview (This documentation)
+
 Jupyter Notebook R1-R4 and Final Notebook               #Step-by-step Progress and the Final Project
+
 Report of PLTR Risk Management                          #Detail for Analysis and Explanation
 
 5. Author Name
