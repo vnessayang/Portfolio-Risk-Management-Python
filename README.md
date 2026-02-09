@@ -14,7 +14,6 @@ Apply econometric techniques to real-world financial data,
 
 Build reproducible, research-grade workflows.
 
-This project reflects the analytical foundation I intend to expand in postgraduate study.
 
 2. Executive Summary
 
